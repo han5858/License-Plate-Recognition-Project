@@ -36,5 +36,5 @@ It simulates a **Smart Gate System** that automatically grants or denies access 
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AI-License-Plate-Recognition.git](https://github.com/YOUR_USERNAME/AI-License-Plate-Recognition.git)
+git clone [https://github.com/han5858/AI-License-Plate-Recognition.git](https://github.com/han5858/AI-License-Plate-Recognition.git)
 cd AI-License-Plate-Recognition
